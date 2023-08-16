@@ -1,0 +1,24 @@
+filename,box,confidence,keypoints,label
+OIP.jpg,"[167, 171, 30, 41]",1.0,"{'left_eye': (175, 188), 'right_eye': (189, 189), 'nose': (180, 197), 'mouth_left': (174, 201), 'mouth_right': (189, 202)}",Face 1
+OIP.jpg,"[320, 112, 37, 48]",0.9999933242797852,"{'left_eye': (334, 129), 'right_eye': (350, 133), 'nose': (341, 141), 'mouth_left': (329, 144), 'mouth_right': (346, 148)}",Face 2
+OIP.jpg,"[57, 28, 22, 30]",0.9999818801879883,"{'left_eye': (66, 39), 'right_eye': (76, 39), 'nose': (73, 45), 'mouth_left': (65, 50), 'mouth_right': (76, 50)}",Face 3
+OIP.jpg,"[368, 95, 28, 35]",0.9999727010726929,"{'left_eye': (373, 110), 'right_eye': (386, 108), 'nose': (378, 117), 'mouth_left': (375, 123), 'mouth_right': (388, 121)}",Face 4
+OIP.jpg,"[244, 18, 23, 32]",0.9999444484710693,"{'left_eye': (250, 30), 'right_eye': (261, 30), 'nose': (255, 36), 'mouth_left': (249, 42), 'mouth_right': (260, 42)}",Face 5
+OIP.jpg,"[120, 185, 25, 36]",0.9998669624328613,"{'left_eye': (126, 200), 'right_eye': (139, 198), 'nose': (134, 208), 'mouth_left': (127, 212), 'mouth_right': (140, 211)}",Face 6
+OIP.jpg,"[225, 86, 24, 33]",0.9998533725738525,"{'left_eye': (230, 99), 'right_eye': (242, 98), 'nose': (236, 106), 'mouth_left': (230, 110), 'mouth_right': (242, 110)}",Face 7
+OIP.jpg,"[104, 111, 31, 38]",0.9998241066932678,"{'left_eye': (116, 124), 'right_eye': (130, 128), 'nose': (123, 135), 'mouth_left': (112, 136), 'mouth_right': (126, 140)}",Face 8
+OIP.jpg,"[179, 92, 29, 38]",0.9998058676719666,"{'left_eye': (187, 105), 'right_eye': (201, 106), 'nose': (193, 116), 'mouth_left': (185, 118), 'mouth_right': (200, 119)}",Face 9
+OIP.jpg,"[41, 138, 30, 37]",0.9996428489685059,"{'left_eye': (51, 151), 'right_eye': (64, 153), 'nose': (58, 161), 'mouth_left': (49, 164), 'mouth_right': (63, 165)}",Face 10
+OIP.jpg,"[258, 65, 21, 27]",0.9993880987167358,"{'left_eye': (260, 73), 'right_eye': (268, 73), 'nose': (260, 79), 'mouth_left': (260, 85), 'mouth_right': (268, 85)}",Face 11
+OIP.jpg,"[176, 30, 22, 28]",0.9993593096733093,"{'left_eye': (182, 41), 'right_eye': (192, 41), 'nose': (186, 48), 'mouth_left': (182, 51), 'mouth_right': (192, 51)}",Face 12
+OIP.jpg,"[145, 53, 29, 38]",0.9992910623550415,"{'left_eye': (155, 68), 'right_eye': (168, 69), 'nose': (161, 76), 'mouth_left': (153, 81), 'mouth_right': (166, 82)}",Face 13
+OIP.jpg,"[81, 67, 25, 31]",0.9985036849975586,"{'left_eye': (88, 81), 'right_eye': (100, 78), 'nose': (97, 84), 'mouth_left': (90, 91), 'mouth_right': (102, 88)}",Face 14
+OIP.jpg,"[204, 60, 22, 27]",0.9984933137893677,"{'left_eye': (212, 68), 'right_eye': (222, 69), 'nose': (218, 76), 'mouth_left': (210, 78), 'mouth_right': (221, 79)}",Face 15
+OIP.jpg,"[341, 75, 25, 32]",0.9984034895896912,"{'left_eye': (348, 87), 'right_eye': (360, 88), 'nose': (353, 94), 'mouth_left': (347, 98), 'mouth_right': (359, 100)}",Face 16
+OIP.jpg,"[240, 241, 27, 35]",0.9983187913894653,"{'left_eye': (247, 253), 'right_eye': (260, 253), 'nose': (253, 262), 'mouth_left': (247, 266), 'mouth_right': (260, 267)}",Face 17
+OIP.jpg,"[291, 96, 23, 35]",0.9980144500732422,"{'left_eye': (296, 110), 'right_eye': (308, 110), 'nose': (301, 118), 'mouth_left': (296, 122), 'mouth_right': (308, 122)}",Face 18
+OIP.jpg,"[245, 122, 33, 45]",0.9972694516181946,"{'left_eye': (254, 139), 'right_eye': (269, 140), 'nose': (260, 149), 'mouth_left': (252, 152), 'mouth_right': (269, 154)}",Face 19
+OIP.jpg,"[330, 37, 25, 31]",0.9962794184684753,"{'left_eye': (337, 49), 'right_eye': (349, 49), 'nose': (342, 56), 'mouth_left': (336, 60), 'mouth_right': (349, 60)}",Face 20
+OIP.jpg,"[113, 51, 22, 24]",0.9959555864334106,"{'left_eye': (120, 62), 'right_eye': (128, 57), 'nose': (129, 64), 'mouth_left': (126, 70), 'mouth_right': (133, 66)}",Face 21
+OIP.jpg,"[396, 145, 32, 38]",0.9943132400512695,"{'left_eye': (403, 163), 'right_eye': (418, 158), 'nose': (413, 169), 'mouth_left': (408, 175), 'mouth_right': (422, 170)}",Face 22
+OIP.jpg,"[389, 70, 20, 25]",0.9893730282783508,"{'left_eye': (393, 79), 'right_eye': (403, 79), 'nose': (398, 84), 'mouth_left': (394, 89), 'mouth_right': (403, 89)}",Face 23

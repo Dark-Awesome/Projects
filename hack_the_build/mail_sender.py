@@ -15,7 +15,7 @@ def send_to_all(sender_mail, sender_password,message,listofrecievers):
     for i in range(len(listofrecievers)):
         sendmail(sender_mail, sender_password,message,receiver_mail=listofrecievers[i])
 
-sendmail("ankitdubey.iitjmu@yahoo.com", "123456789@123456789","hello shubhu", "shubhabratabarik711@gmail.com")
+sendmail("----------","-----------","hello shubhu", "________")
 
 # Server name: smtp.mail.yahoo.com
 
